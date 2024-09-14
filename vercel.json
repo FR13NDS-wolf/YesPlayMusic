@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://apimusic.loophy.top/:match*"
+      "destination": "https://npmapi.loophy.top/:match*"
     }
   ]
 }
